@@ -2,6 +2,22 @@
 
 ## Time series classification
 
+Setup:
+
+- the data files and the notebooks should in a hierarchy of this type:
+
+├── data
+
+│-----── ECG
+
+│-----── RacketSports
+
+├── eda.ipynb
+
+├── classic_ml.ipynb
+
+
+
 1. Datasets:
 
 - RacketSports (multivariate dataset)
@@ -19,7 +35,7 @@
 
 - Random Forest
 
-4. Deep Learning
+4. Deep Learning (TODO)
 
 - LSTM
 
