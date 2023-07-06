@@ -35,7 +35,9 @@ Setup:
 
 - Random Forest
 
-4. Deep Learning (TODO)
+4. Deep Learning
+
+- MLP
 
 - LSTM
 
